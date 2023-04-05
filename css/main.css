@@ -551,4 +551,43 @@
     height: fit_content;
   }
 
-  
+
+/* .theContent h1{
+    font-size: 5rem;
+    text-align: center;
+    color: black;
+} */
+.theContent{
+  background: gray;
+}
+.theContent .wrapper{
+  display: flex;
+}
+.theContent h1{
+    color: white;
+}
+.theContent img{
+    width: 80%;
+    height: 50%;
+    /* display: flex;
+    justify-content: center;
+    margin: 0 auto; */
+}
+
+.theContent p{
+   color: white;
+}
+.theContent h4{
+   color: white;
+}
+/* .theContent h4:hover{
+   color: black;
+} */
+/* .theContent .tags{
+   color: blue;
+} */
+
+/* .theContent .left{
+  display: flex;
+}
+   */
